@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **mahatodipesh10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gc3_l_rmdafa_vR1NGXdR_rTcZRgTz5p/view?usp=drive_link](https://drive.google.com/file/d/1Gc3_l_rmdafa_vR1NGXdR_rTcZRgTz5p/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny.**
 
