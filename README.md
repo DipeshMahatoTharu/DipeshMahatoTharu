@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/dipeshmahatoo" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshmahatoo?logo=twitter&style=for-the-badge" alt="dipeshmahatoo" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Python**
-- 💬 Ask me about **Front-end development**
+- 💬 Ask me about **Backend development**
 - 📫 How to reach me: **mahatodipesh10@gmail.com**
 - ⚡ Fun fact: **I am funny.**
 
