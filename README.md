@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Mahato</h1>
 
 <h3 align="center">
-Backend Developer • Python • Django • Java • Future Full Stack Developer 🇳🇵
+Backend Developer • Python • Django • 🇳🇵
 </h3>
 
 <p align="center">
