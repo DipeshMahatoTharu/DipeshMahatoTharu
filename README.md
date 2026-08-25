@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" width="100%" />
+<img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" width="100%" alt="Welcome Banner" />
 
 <h1 align="center">Hi 👋, I'm Dipesh Mahato</h1>
 
@@ -8,12 +8,12 @@ Backend Developer • Python • Django • 🇳🇵
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+Developer;MySQL+%26+PostgreSQL;Building+Robust+APIs;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+Developer;MySQL+%26+PostgreSQL;Building+Robust+APIs;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
+<img align="right" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding GIF" />
 
 ## 👨‍💻 About Me
 
@@ -33,19 +33,19 @@ Backend Developer • Python • Django • 🇳🇵
 <p align="left">
 
 <a href="https://twitter.com/dipeshmahatoo">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
 </a>
 
 <a href="https://linkedin.com/in/dipesh-mahato-a08188284">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="https://instagram.com/dipeshmahato444">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
 <a href="https://github.com/DipeshMahatoTharu">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
 </p>
@@ -55,9 +55,7 @@ Backend Developer • Python • Django • 🇳🇵
 # 💻 Tech Stack
 
 <p align="center">
-<!-- Removed frontend icons and focused purely on backend/tools -->
-<img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres,git,github,linux,postman,vscode&perline=8"/>
-
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres,git,github,linux,postman,vscode&perline=8" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -66,9 +64,9 @@ Backend Developer • Python • Django • 🇳🇵
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DipeshMahatoTharu&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DipeshMahatoTharu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats Card" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshMahatoTharu&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshMahatoTharu&layout=compact&theme=radical&hide_border=true" alt="Top Languages Card" />
 
 </p>
 
@@ -78,7 +76,7 @@ Backend Developer • Python • Django • 🇳🇵
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=DipeshMahatoTharu&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DipeshMahatoTharu&theme=radical&hide_border=true" alt="GitHub Streak Card" />
 
 </p>
 
@@ -88,7 +86,7 @@ Backend Developer • Python • Django • 🇳🇵
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DipeshMahatoTharu&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DipeshMahatoTharu&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </p>
 
@@ -98,7 +96,7 @@ Backend Developer • Python • Django • 🇳🇵
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
 </p>
 
@@ -120,6 +118,6 @@ Backend Developer • Python • Django • 🇳🇵
 
 ### 💙 Code • Learn • Build • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
