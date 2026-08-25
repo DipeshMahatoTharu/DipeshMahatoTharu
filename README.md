@@ -8,7 +8,7 @@ Backend Developer • Python • Django • 🇳🇵
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Django,+MySQL+%26+PostgreSQL;Learning+Java+%26+Full+Stack;Always+Learning+New+Things;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+Developer;MySQL+%26+PostgreSQL;Building+Robust+APIs;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -17,11 +17,11 @@ Backend Developer • Python • Django • 🇳🇵
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Python, Java, Django & PostgreSQL**
-- 🚀 Goal: Become a **Full Stack Developer**
-- 💻 Passionate about Backend Development
+- 🌱 Currently mastering **Python, Django, MySQL & PostgreSQL**
+- 🚀 Goal: Become an **Expert Backend Developer**
+- 💻 Passionate about Server-Side Architecture & APIs
 - 📚 Learning every day through projects
-- ⚡ Love solving coding problems
+- ⚡ Love solving complex coding problems
 - 📫 Email: **mahatodipesh10@gmail.com**
 
 <br>
@@ -55,8 +55,8 @@ Backend Developer • Python • Django • 🇳🇵
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,nodejs,react,mysql,postgres,git,github,linux,postman,vscode,unity&perline=8"/>
+<!-- Removed frontend icons and focused purely on backend/tools -->
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres,git,github,linux,postman,vscode&perline=8"/>
 
 </p>
 
@@ -110,8 +110,7 @@ Backend Developer • Python • Django • 🇳🇵
 - 🌐 Django
 - 🐬 MySQL
 - 🐘 PostgreSQL
-- ☕ Java
-- ⚛ React
+- ⚙️ Building RESTful APIs
 
 ---
 
