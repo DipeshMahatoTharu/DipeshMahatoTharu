@@ -8,7 +8,7 @@ Backend Developer • Python • Django • 🇳🇵
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+Developer;Learning+Java+%26+Full+Stack;Always+Learning+New+Things;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Django,+MySQL+%26+PostgreSQL;Learning+Java+%26+Full+Stack;Always+Learning+New+Things;Building+Projects+Every+Day" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ Backend Developer • Python • Django • 🇳🇵
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Python, Java & Django**
+- 🌱 Currently learning **Python, Java, Django & PostgreSQL**
 - 🚀 Goal: Become a **Full Stack Developer**
 - 💻 Passionate about Backend Development
 - 📚 Learning every day through projects
@@ -56,7 +56,7 @@ Backend Developer • Python • Django • 🇳🇵
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,nodejs,react,mysql,git,github,linux,postman,vscode,unity&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,nodejs,react,mysql,postgres,git,github,linux,postman,vscode,unity&perline=8"/>
 
 </p>
 
@@ -108,9 +108,10 @@ Backend Developer • Python • Django • 🇳🇵
 
 - 🐍 Python
 - 🌐 Django
+- 🐬 MySQL
+- 🐘 PostgreSQL
 - ☕ Java
 - ⚛ React
-- 🚀 Full Stack Development
 
 ---
 
