@@ -58,8 +58,8 @@ Backend Developer • Python • Django • 🇳🇵
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipeshMahatoTharu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshMahatoTharu&layout=compact&theme=radical&hide_border=true" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DipeshMahatoTharu&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshMahatoTharu&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages Card" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Backend Developer • Python • Django • 🇳🇵
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DipeshMahatoTharu&theme=radical&hide_border=true" alt="GitHub Streak Card" />
+  <img src="https://streak-stats.demolab.com?user=DipeshMahatoTharu&theme=radical&hide_border=true&v=1" alt="GitHub Streak Card" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Backend Developer • Python • Django • 🇳🇵
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DipeshMahatoTharu&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DipeshMahatoTharu&theme=radical&no-frame=true&row=1&column=7&margin-w=15&v=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Backend Developer • Python • Django • 🇳🇵
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true&v=1" alt="Contribution Graph" />
 </p>
 
 ---
@@ -105,6 +105,6 @@ Backend Developer • Python • Django • 🇳🇵
 
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge&v=1" alt="Profile Views" />
 
 </div>
