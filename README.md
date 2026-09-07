@@ -34,12 +34,15 @@ Backend Developer • Python • Django • 🇳🇵
   <a href="https://twitter.com/dipeshmahatoo" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
+
   <a href="https://linkedin.com/in/dipesh-mahato-a08188284" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+
   <a href="https://instagram.com/dipeshmahato444" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+
   <a href="https://github.com/DipeshMahatoTharu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
@@ -58,8 +61,13 @@ Backend Developer • Python • Django • 🇳🇵
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipeshMahatoTharu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshMahatoTharu&layout=compact&theme=radical&hide_border=true" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipeshMahatoTharu&theme=radical" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipeshMahatoTharu&theme=radical" height="180" alt="GitHub Statistics" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipeshMahatoTharu&theme=radical" height="180" alt="Repository Languages" />
 </p>
 
 ---
@@ -67,7 +75,7 @@ Backend Developer • Python • Django • 🇳🇵
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DipeshMahatoTharu&theme=radical&hide_border=true" alt="GitHub Streak Card" />
+  <img src="https://streak-stats.demolab.com/?user=DipeshMahatoTharu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,24 +91,39 @@ Backend Developer • Python • Django • 🇳🇵
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- 🐍 Python
-- 🌐 Django
-- 🐬 MySQL
-- 🐘 PostgreSQL
-- ⚙️ Building RESTful APIs
+<p align="center">
+
+🐍 **Python** &nbsp;&nbsp;  
+🌐 **Django** &nbsp;&nbsp;  
+🐬 **MySQL** &nbsp;&nbsp;  
+🐘 **PostgreSQL** &nbsp;&nbsp;  
+⚙️ **REST APIs**
+
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+<p align="center">
+
+**Backend Systems • REST APIs • Database Applications • Web Applications**
+
+</p>
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
 ### 💙 Code • Learn • Build • Repeat
 
 <br>
