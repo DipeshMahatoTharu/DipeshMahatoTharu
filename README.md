@@ -31,6 +31,7 @@ Backend Developer • Python • Django • 🇳🇵
 ## 🌐 Connect with Me
 
 <p align="left">
+
   <a href="https://twitter.com/dipeshmahatoo" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
@@ -46,6 +47,7 @@ Backend Developer • Python • Django • 🇳🇵
   <a href="https://github.com/DipeshMahatoTharu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
+
 </p>
 
 ---
@@ -61,13 +63,26 @@ Backend Developer • Python • Django • 🇳🇵
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipeshMahatoTharu&theme=radical" alt="GitHub Profile Details" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipeshMahatoTharu&theme=radical"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipeshMahatoTharu&theme=radical" height="180" alt="GitHub Statistics" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipeshMahatoTharu&theme=radical" height="180" alt="Repository Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipeshMahatoTharu&theme=radical"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipeshMahatoTharu&theme=radical"
+    height="180"
+    alt="Repository Languages"
+  />
+
 </p>
 
 ---
@@ -75,23 +90,44 @@ Backend Developer • Python • Django • 🇳🇵
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DipeshMahatoTharu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=DipeshMahatoTharu&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DipeshMahatoTharu&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipeshMahatoTharu&theme=radical"
+    alt="GitHub Activity"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshMahatoTharu&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+
+  <img
+    src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github"
+    alt="GitHub Developer"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github"
+    alt="Open Source"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Backend-Python%20Developer-yellow?style=for-the-badge&logo=python"
+    alt="Python Developer"
+  />
+
 </p>
 
 ---
@@ -120,6 +156,16 @@ Backend Developer • Python • Django • 🇳🇵
 
 ---
 
+## 📚 Currently Learning
+
+<p align="center">
+
+Python → Django → REST APIs → PostgreSQL → Authentication → Deployment
+
+</p>
+
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
@@ -128,6 +174,9 @@ Backend Developer • Python • Django • 🇳🇵
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=DipeshMahatoTharu&label=Profile+Views&color=blueviolet&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
